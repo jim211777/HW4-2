@@ -1,0 +1,6 @@
+﻿  main.c
+D:\desktop\109360234_邵明諒HW4\6.11\source\main.c(24,31): warning C4474: 'printf': 傳遞給格式字串的引數太多
+D:\desktop\109360234_邵明諒HW4\6.11\source\main.c(24,31): message : 預留位置及其參數需要 1 個 variadic 引數，但卻提供了 2 個
+D:\desktop\109360234_邵明諒HW4\6.11\source\main.c(25,31): warning C4474: 'printf': 傳遞給格式字串的引數太多
+D:\desktop\109360234_邵明諒HW4\6.11\source\main.c(25,31): message : 預留位置及其參數需要 1 個 variadic 引數，但卻提供了 2 個
+  HW.vcxproj -> D:\desktop\109360234_邵明諒HW4\6.11\HW\Debug\HW.exe
