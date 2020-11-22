@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(476,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.cpp
+C:\Users\cowbo\OneDrive\桌面\109360241_陳泓靖 HW\p25\source\main.cpp(5,1): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+  p25.vcxproj -> C:\Users\cowbo\OneDrive\桌面\109360241_陳泓靖 HW\p25\p25\..\temp\debug\p25.exe
